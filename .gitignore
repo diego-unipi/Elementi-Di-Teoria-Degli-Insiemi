@@ -4,5 +4,4 @@
 *.png
 *.synctex.gz
 *.synctex
-*.sty
 .vscode/
