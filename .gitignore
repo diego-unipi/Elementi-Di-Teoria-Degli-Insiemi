@@ -1,7 +1,5 @@
 *.pre
 *.aux
-*.jpg
-*.png
 *.synctex.gz
 *.synctex
 .vscode/
